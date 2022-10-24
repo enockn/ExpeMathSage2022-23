@@ -6,12 +6,13 @@ Period : `17th October 2022 - 4th November 2022`
 
 
 ****
- <div align="center"><h2>
+ <div align="center"><h1>
   Daily breakdown
-  </h2></div>                                                    
+  </h1></div>                                                    
 
 ****
 
+## `Week 1`
 <div align="center">
 
 | Day |         Topic    |     Slides     | Notebook  | Progress |
@@ -21,5 +22,17 @@ Period : `17th October 2022 - 4th November 2022`
  | 19 - 10 - 2022  | Starting to program| [day_03_slides](https://drive.google.com/file/d/1P-Spi9HASBVSq9F-yQAdH4z5g8kWMZ_k/view?usp=sharing)   | [day_03_notebook](https://drive.google.com/file/d/1eR0J7q06-vl7riDESqAFEED3IKM3DLEP/view?usp=sharing) |<progress id="file" max="100" value="30"> 30% </progress>| |
  | 20 - 10 - 2022  | Mathematical Proofs| [day_04_slides](https://drive.google.com/file/d/10dNdCnq0sFLzZG6EX7oXyPu513eBTKS2/view?usp=sharing)  |   [day_04_notebook](https://drive.google.com/file/d/1fNL4kB49GcF-_6Mn-fhBTRvkwnavdIts/view?usp=sharing) |<progress id="file" max="100" value="40"> 40% </progress>| |
  | 21 - 10 - 2022  | Interacts and animated plots | [no slides]()   |  [resources](https://doc.sagemath.org/html/en/prep/Quickstarts/Interact.html)  |<progress id="file" max="100" value="50"> 50% </progress>| |
+
+</div> 
+
+
+## `Week 2`
+<div align="center">
+
+| Day |         Topic    |     Slides     | Notebook  | Progress |
+|:----------------------------:|:-------------------------------------------:|:---------------:|:-------------------:|:----------------:|
+| 24 - 10 - 2022 |  | [day_05_slides]()  |  [day_05_notebook])| <progress id="file" max="100" value="55"> 55% </progress>|
+ | 25 - 10 - 2022 |  | [day_06_slides]()  |  [day_06_notebook])| <progress id="file" max="100" value="60"> 65% </progress>|
+ 
 
 </div> 
