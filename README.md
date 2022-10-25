@@ -32,7 +32,7 @@ Period : `17th October 2022 - 4th November 2022`
 | Day |         Topic    |     Slides     | Notebook  | Progress |
 |:----------------------------:|:-------------------------------------------:|:---------------:|:-------------------:|:----------------:|
 | 24 - 10 - 2022 | Advanced plots with Sage 1 | [day_05_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_05_notebook](https://drive.google.com/file/d/1bWdMLpQJxZhl2uokQkpwFFkte8ryDuKR/view?usp=sharing)| <progress id="file" max="100" value="55"> 55% </progress>|
- | 25 - 10 - 2022 | Advanced plots with Sage 2 | [day_06_slides]()  |  [day_06_notebook]()| <progress id="file" max="100" value="60"> 60% </progress>|
+ | 25 - 10 - 2022 | Advanced plots with Sage 2 | [day_06_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_06_notebook](https://drive.google.com/file/d/14FKkKpKAmOLsUt3Kso0cap1n8jBzzpBU/view?usp=sharing)| <progress id="file" max="100" value="60"> 60% </progress>|
  | 26 - 10 - 2022 | Advanced plots with Sage 3 | [day_07_slides]()  |  [day_07_notebook]()| <progress id="file" max="100" value="65"> 65% </progress>|
  
 
