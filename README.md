@@ -33,8 +33,11 @@ Period : `17th October 2022 - 4th November 2022`
 |:----------------------------:|:-------------------------------------------:|:---------------:|:-------------------:|:----------------:|
 | 24 - 10 - 2022 | Advanced plots with Sage 1 | [day_05_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_05_notebook](https://drive.google.com/file/d/1bWdMLpQJxZhl2uokQkpwFFkte8ryDuKR/view?usp=sharing)| <progress id="file" max="100" value="55"> 55% </progress>|
  | 25 - 10 - 2022 | Advanced plots with Sage 2 | [day_06_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_06_notebook](https://drive.google.com/file/d/14FKkKpKAmOLsUt3Kso0cap1n8jBzzpBU/view?usp=sharing)| <progress id="file" max="100" value="60"> 60% </progress>|
- | 26 - 10 - 2022 | Advanced plots with Sage 3-0 | [day_07_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_07_notebook](https://drive.google.com/file/d/1YIy0SYdvixVrmBRu95X3ToqqGNjt-_00/view?usp=sharing)| <progress id="file" max="100" value="65"> 65% </progress>|
- | 27 - 10 - 2022 | Advanced plots with Sage 3-1 | [day_08_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_08_notebook](https://drive.google.com/file/d/1YIy0SYdvixVrmBRu95X3ToqqGNjt-_00/view?usp=sharing)| <progress id="file" max="100" value="65"> 65% </progress>|
+ | 26 - 10 - 2022 | Advanced plots with Sage 3 | [day_07_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [day_07_notebook](https://drive.google.com/file/d/1YIy0SYdvixVrmBRu95X3ToqqGNjt-_00/view?usp=sharing)| <progress id="file" max="100" value="65"> 65% </progress>|
+ | 27 - 10 - 2022 | Recursive sequences and formal proofs | [day_08_slides](https://drive.google.com/file/d/1BmV7wXXqvWkGw26Pm-kjrHTfuQ9z-Q_A/view?usp=sharing)  |  [no notebook]()| <progress id="file" max="100" value="70"> 65% </progress>|
+ | 28 - 10 - 2022 | Recursive sequences and formal proofs | [day_09_slides](https://drive.google.com/file/d/1QSVBn_GD0a5CVrZT_FLIaw3LTo2hknuW/view?usp=sharing)  |  [ no notebook]()| <progress id="file" max="100" value="75"> 65% </progress>|
+ 
+ 
  
 
 </div> 
